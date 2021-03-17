@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CleHou a Chemical Enginner with some basic training in Data Mining. 
+👋 Hi, I’m @CleHou a Chemical Enginner with some basic training in Data Mining. 
 I'm passionate about data analysis and my big project currently is a website about COVID, [The COVID-19 Data Analysis Project](https://houzardc.fr)
 
 <!---
